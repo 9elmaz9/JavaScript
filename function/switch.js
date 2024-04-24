@@ -1,4 +1,5 @@
-var fruit =" strawberry";
+// var fruit ="Strawberry";
+var fruit ="Orange";
 switch(fruit){  
 case"Blueberry":
 alert("I like it!")
